@@ -1,0 +1,3 @@
+# 忽略 dataset 目录下的所有 .bmp 文件
+dataset/**/*.bmp
+
