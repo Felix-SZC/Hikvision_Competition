@@ -1,3 +1,11 @@
 # 忽略 dataset 目录下的所有 .bmp 文件
 dataset/**/*.bmp
 
+# 忽略所有 PNG 文件
+*.png
+**/*.png
+
+# 忽略 PyTorch 模型文件
+*.pt
+**/*.pt
+models/*.pt
